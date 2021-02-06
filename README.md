@@ -1,4 +1,9 @@
 # fintechlesson2
-# PAYroll
-Please check on RICe 
-fdgcghdvgsvdsvshjsc
+# Payments & Billings
+## Payroll
+###Company
+- RISE
+open link "https://rise.com/"
+## Background 
+HRIS Platform
+
